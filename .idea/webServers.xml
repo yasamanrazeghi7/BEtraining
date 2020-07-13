@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2ef08bf-6cfd-485c-b218-f7f0334b3d15" name="poison.uci.ics.edu">
+        <fileTransfer rootFolder="/home/yrazeghi" accessType="SFTP" host="poison" port="22" sshConfigId="9e3735d0-278f-462b-acfb-69b4d17d537c" sshConfig="poison.uci.ics.edu" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
